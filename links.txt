@@ -1,0 +1,1 @@
+Abstractive and Extractive summarization: https://towardsdatascience.com/report-is-too-long-to-read-use-nlp-to-create-a-summary-6f5f7801d355
